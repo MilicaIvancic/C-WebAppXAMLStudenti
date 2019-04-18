@@ -1,0 +1,14 @@
+C:\Users\Milica\source\repos\PrimerIspitaCSHARP2SveApp\PrimerIspitaCSHARP2SveApp\bin\Debug\netcoreapp2.1\PrimerIspitaCSHARP2SveApp.deps.json
+C:\Users\Milica\source\repos\PrimerIspitaCSHARP2SveApp\PrimerIspitaCSHARP2SveApp\bin\Debug\netcoreapp2.1\PrimerIspitaCSHARP2SveApp.runtimeconfig.json
+C:\Users\Milica\source\repos\PrimerIspitaCSHARP2SveApp\PrimerIspitaCSHARP2SveApp\bin\Debug\netcoreapp2.1\PrimerIspitaCSHARP2SveApp.runtimeconfig.dev.json
+C:\Users\Milica\source\repos\PrimerIspitaCSHARP2SveApp\PrimerIspitaCSHARP2SveApp\bin\Debug\netcoreapp2.1\PrimerIspitaCSHARP2SveApp.dll
+C:\Users\Milica\source\repos\PrimerIspitaCSHARP2SveApp\PrimerIspitaCSHARP2SveApp\bin\Debug\netcoreapp2.1\PrimerIspitaCSHARP2SveApp.pdb
+C:\Users\Milica\source\repos\PrimerIspitaCSHARP2SveApp\PrimerIspitaCSHARP2SveApp\obj\Debug\netcoreapp2.1\PrimerIspitaCSHARP2SveApp.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\PrimerIspitaCSHARP2SveApp\PrimerIspitaCSHARP2SveApp\obj\Debug\netcoreapp2.1\PrimerIspitaCSHARP2SveApp.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\PrimerIspitaCSHARP2SveApp\PrimerIspitaCSHARP2SveApp\obj\Debug\netcoreapp2.1\PrimerIspitaCSHARP2SveApp.RazorAssemblyInfo.cache
+C:\Users\Milica\source\repos\PrimerIspitaCSHARP2SveApp\PrimerIspitaCSHARP2SveApp\obj\Debug\netcoreapp2.1\PrimerIspitaCSHARP2SveApp.RazorAssemblyInfo.cs
+C:\Users\Milica\source\repos\PrimerIspitaCSHARP2SveApp\PrimerIspitaCSHARP2SveApp\obj\Debug\netcoreapp2.1\PrimerIspitaCSHARP2SveApp.AssemblyInfoInputs.cache
+C:\Users\Milica\source\repos\PrimerIspitaCSHARP2SveApp\PrimerIspitaCSHARP2SveApp\obj\Debug\netcoreapp2.1\PrimerIspitaCSHARP2SveApp.AssemblyInfo.cs
+C:\Users\Milica\source\repos\PrimerIspitaCSHARP2SveApp\PrimerIspitaCSHARP2SveApp\obj\Debug\netcoreapp2.1\PrimerIspitaCSHARP2SveApp.RazorTargetAssemblyInfo.cache
+C:\Users\Milica\source\repos\PrimerIspitaCSHARP2SveApp\PrimerIspitaCSHARP2SveApp\obj\Debug\netcoreapp2.1\PrimerIspitaCSHARP2SveApp.dll
+C:\Users\Milica\source\repos\PrimerIspitaCSHARP2SveApp\PrimerIspitaCSHARP2SveApp\obj\Debug\netcoreapp2.1\PrimerIspitaCSHARP2SveApp.pdb
